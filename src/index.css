@@ -20,3 +20,7 @@ code {
 .content {
   height: 100%;
 }
+
+.rightThing, leftThing {
+  box-shadow: 2px 2px 2px black;
+}
