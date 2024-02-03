@@ -1,9 +1,18 @@
 import { useState } from "react";
 
 function Naming (props) {
+    /**
+     * Triggers the handle name function with a change event
+     * @param {object} event 
+     */
     function handleChange(event) {
         props.handleName(event.target.value);
     }
+
+    /**
+     * Triggers the handle navigate function with a click event
+     * @param {object} event 
+     */
     function handleClick(event) {
         props.handleNavigate(event.target.value);
     }

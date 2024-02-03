@@ -13,6 +13,7 @@ let USDollar = new Intl.NumberFormat('en-US', {
   currency: 'USD',
 });
 
+// Every wood you add to this calculator will be saved as an object
 class Wood {
   constructor (nickname, species, price, length, width, thickness) {
     this.nickname = nickname;
@@ -22,23 +23,41 @@ class Wood {
     this.width = width;
     this.thickness = thickness;
   }
+
+  /**
+   * Calculates board feet using given dimensions
+   * @params none
+   * @returns number
+   */
   getBoardFeet() {
     let volume = (this.width) * (this.length) * (this.thickness);
     return volume / 12;
   }
+
+  /**
+   * Calculates total price using boardfeet and unit cost
+   * @params none
+   * @returns number
+   */
   getTotalPrice() {
     return USDollar.format(this.price * this.getBoardFeet());
   }
 }
 
 function App() {
+  // This one is for the current working wood
   let [wood, setWood] = useState({});
+  // This one pulls pre-created woods from the API
   let [userWoods, setUserWoods] = useState([]);
+
   let thisWood = new Wood()
+  // This counter is for React Router to determine what step in the form you're on
   let counter = 1;
 
   const navigate = useNavigate();
-  const location = useLocation()
+  const location = useLocation();
+
+  // Navigate to page 1 if on the index page, if on page 1 pull the user generated woods
   useEffect(() => {
     if (location.pathname == "/" || location.pathname == "/0") {
       navigate("/1");
@@ -48,7 +67,11 @@ function App() {
     }
   }, []);
   
-
+  /**
+   * Move the form using the counter
+   * @returns none
+   * @param {string} direction 
+   */
   function handleNavigate(direction) {
     if (direction == "forward") {
       console.log(counter);
@@ -63,27 +86,58 @@ function App() {
     navigate(`/${counter}`);
   }
 
+  /**
+   * Creates the name for your current as you're typing it so it can be displayed
+   * @returns none
+   * @param {string} name 
+   */
+
   function handleName(name) {
     thisWood.nickname = name;
     setWood(thisWood);
   }
 
+  /**
+   * Creates the name for your current species of wood as you're typing
+   * @returns none
+   * @param {number} species
+   */
   function handleSpecies(species) {
 
   }
 
+  /**
+   * Creates the per unit prices as you're typing
+   * @returns none
+   * @param {number} price 
+   */
   function handlePrice(price) {
 
   }
 
+  /**
+   * Adds the length of the board in feet to the list
+   * @returns none
+   * @param {number} length 
+   */
   function handleLength(length) {
 
   }
 
+  /**
+   * Adds the width in inches
+   * @returns none
+   * @param {number} width 
+   */
   function handleWidth(width) {
 
   }
 
+  /**
+   * Adds the thickness in inches
+   * @returns none
+   * @param {number} thickness 
+   */
   function handleThick(thickness) {
 
   }
