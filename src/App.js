@@ -5,6 +5,7 @@ import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min'
 import { useEffect, useState } from 'react';
 import { Route, Routes, useNavigate, useLocation } from 'react-router-dom';
 import Naming from './components/naming';
+import API from './components/API/connect';
 
 // Establish US dollar format
 let USDollar = new Intl.NumberFormat('en-US', {
@@ -32,6 +33,7 @@ class Wood {
 
 function App() {
   let [wood, setWood] = useState({});
+  let [userWoods, setUserWoods] = useState([]);
   let thisWood = new Wood()
   let counter = 1;
 
@@ -40,6 +42,9 @@ function App() {
   useEffect(() => {
     if (location.pathname == "/" || location.pathname == "/0") {
       navigate("/1");
+    }
+    if (location.pathname == "/1") {
+      setUserWoods(API.getUserWoods());
     }
   }, []);
   
