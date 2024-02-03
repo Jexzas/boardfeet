@@ -1,0 +1,1378 @@
+[
+    {
+      "name": "Abachi",
+      "Rarity": "3"
+    },
+    {
+      "name": "Acacia",
+      "Rarity": "2"
+    },
+    {
+      "name": "African Zebrawood",
+      "Rarity": "3"
+    },
+    {
+      "name": "African blackwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "African ebony",
+      "Rarity": "3"
+    },
+    {
+      "name": "African mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "African padauk",
+      "Rarity": "2"
+    },
+    {
+      "name": "Afzelia",
+      "Rarity": "3"
+    },
+    {
+      "name": "Agba",
+      "Rarity": "3"
+    },
+    {
+      "name": "Alder",
+      "Rarity": "2"
+    },
+    {
+      "name": "Alerce",
+      "Rarity": "3"
+    },
+    {
+      "name": "Alpine ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "American hophornbeam",
+      "Rarity": "3"
+    },
+    {
+      "name": "American Chestnut",
+      "Rarity": 2
+    },
+    {
+      "name": "American basswood",
+      "Rarity": "2"
+    },
+    {
+      "name": "American beech",
+      "Rarity": "2"
+    },
+    {
+      "name": "American elm",
+      "Rarity": "2"
+    },
+    {
+      "name": "American hornbeam",
+      "Rarity": "2"
+    },
+    {
+      "name": "American sycamore",
+      "Rarity": "2"
+    },
+    {
+      "name": "Andaman marblewood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Andiroba",
+      "Rarity": "3"
+    },
+    {
+      "name": "Araucaria",
+      "Rarity": "3"
+    },
+    {
+      "name": "Arizona cypress",
+      "Rarity": "2"
+    },
+    {
+      "name": "Ash",
+      "Rarity": "22"
+    },
+    {
+      "name": "Aspen",
+      "Rarity": ""
+    },
+    {
+      "name": "Atlantic white cedar",
+      "Rarity": "2"
+    },
+    {
+      "name": "Australian oak",
+      "Rarity": "3"
+    },
+    {
+      "name": "Australian blackwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Australian red cedar",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ayan",
+      "Rarity": "3"
+    },
+    {
+      "name": "Balau",
+      "Rarity": "3"
+    },
+    {
+      "name": "Bald cypress",
+      "Rarity": "3"
+    },
+    {
+      "name": "Balsa",
+      "Rarity": "1"
+    },
+    {
+      "name": "Balsam fir",
+      "Rarity": "2"
+    },
+    {
+      "name": "Balsam poplar",
+      "Rarity": "2"
+    },
+    {
+      "name": "Banglay",
+      "Rarity": "3"
+    },
+    {
+      "name": "Basswood",
+      "Rarity": "2"
+    },
+    {
+      "name": "Bastard Mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Bead-tree",
+      "Rarity": "3"
+    },
+    {
+      "name": "Big leaf mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Bigtooth aspen",
+      "Rarity": "2"
+    },
+    {
+      "name": "Birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black alder",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black butt",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black cherry",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Black locust",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black mesquite",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black poplar",
+      "Rarity": "2"
+    },
+    {
+      "name": "Black tupelo",
+      "Rarity": "3"
+    },
+    {
+      "name": "Black willow",
+      "Rarity": "2"
+    },
+    {
+      "name": "Blackbean",
+      "Rarity": "3"
+    },
+    {
+      "name": "Black spruce",
+      "Rarity": "2"
+    },
+    {
+      "name": "Blackwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Bloodwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Blue ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "Bluegum",
+      "Rarity": "3"
+    },
+    {
+      "name": "Borneo ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Bottle tree",
+      "Rarity": "3"
+    },
+    {
+      "name": "Box elder",
+      "Rarity": "2"
+    },
+    {
+      "name": "Brazilian Mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Brazilian ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Brazilian walnut",
+      "Rarity": "3"
+    },
+    {
+      "name": "Brazilwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Brown mallet",
+      "Rarity": "3"
+    },
+    {
+      "name": "Buckeye",
+      "Rarity": "3"
+    },
+    {
+      "name": "Burr oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Butternut",
+      "Rarity": "3"
+    },
+    {
+      "name": "California bay laurel",
+      "Rarity": "2"
+    },
+    {
+      "name": "Camphor tree",
+      "Rarity": "3"
+    },
+    {
+      "name": "Canyon live oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Cape chestnut",
+      "Rarity": "2"
+    },
+    {
+      "name": "Carapa",
+      "Rarity": "3"
+    },
+    {
+      "name": "Catalina ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Catalpa",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cedar",
+      "Rarity": "1"
+    },
+    {
+      "name": "Celery-toppine",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ceylon ebony",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ceylon ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ceylon satinwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cherry",
+      "Rarity": "2"
+    },
+    {
+      "name": "Chestnut",
+      "Rarity": "2"
+    },
+    {
+      "name": "Chestnut oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Chilean mesquite",
+      "Rarity": "3"
+    },
+    {
+      "name": "Chinese mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Chinkapin oak",
+      "Rarity": "3"
+    },
+    {
+      "name": "Coachwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Coast Douglas-fir",
+      "Rarity": "1"
+    },
+    {
+      "name": "Coast redwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cocobolo",
+      "Rarity": "3"
+    },
+    {
+      "name": "Common ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "Common walnut",
+      "Rarity": "2"
+    },
+    {
+      "name": "Corkwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cottonwood",
+      "Rarity": "2"
+    },
+    {
+      "name": "Crabwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cricket-bat willow",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cucumber tree",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cumaru",
+      "Rarity": "3"
+    },
+    {
+      "name": "Cypress",
+      "Rarity": "2"
+    },
+    {
+      "name": "Dark bosse",
+      "Rarity": "3"
+    },
+    {
+      "name": "Demarara Mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Desert ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Dieseltree",
+      "Rarity": "3"
+    },
+    {
+      "name": "Dogwood",
+      "Rarity": "2"
+    },
+    {
+      "name": "Douglas-fir",
+      "Rarity": "1"
+    },
+    {
+      "name": "Downy birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Eastern black oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Eastern black walnut",
+      "Rarity": "2"
+    },
+    {
+      "name": "Eastern cottonwood",
+      "Rarity": 2
+    },
+    {
+      "name": "Eastern hemlock",
+      "Rarity": "2"
+    },
+    {
+      "name": "Eastern red cedar",
+      "Rarity": "2"
+    },
+    {
+      "name": "Eastern white pine",
+      "Rarity": "1"
+    },
+    {
+      "name": "Ebony",
+      "Rarity": "3"
+    },
+    {
+      "name": "Elm",
+      "Rarity": "2"
+    },
+    {
+      "name": "English elm",
+      "Rarity": "2"
+    },
+    {
+      "name": "English oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Eucalyptus",
+      "Rarity": "3"
+    },
+    {
+      "name": "European aspen",
+      "Rarity": "2"
+    },
+    {
+      "name": "European birches",
+      "Rarity": "2"
+    },
+    {
+      "name": "European black pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "European crab apple",
+      "Rarity": "2"
+    },
+    {
+      "name": "European larch",
+      "Rarity": "2"
+    },
+    {
+      "name": "European maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "European yew",
+      "Rarity": "3"
+    },
+    {
+      "name": "European pear",
+      "Rarity": "3"
+    },
+    {
+      "name": "Fir",
+      "Rarity": "1"
+    },
+    {
+      "name": "Flooded gum",
+      "Rarity": "3"
+    },
+    {
+      "name": "Flowering dogwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Genuine mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "Giant ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Gray birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Green ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "Greenheart",
+      "Rarity": "3"
+    },
+    {
+      "name": "Grenadilla",
+      "Rarity": "3"
+    },
+    {
+      "name": "Grey ironbark",
+      "Rarity": "3"
+    },
+    {
+      "name": "Guaiacwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Guanandi",
+      "Rarity": "3"
+    },
+    {
+      "name": "Gum",
+      "Rarity": "2"
+    },
+    {
+      "name": "Gumbolimbo",
+      "Rarity": "3"
+    },
+    {
+      "name": "Hackberry",
+      "Rarity": "2"
+    },
+    {
+      "name": "Hard maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Hemlock",
+      "Rarity": "2"
+    },
+    {
+      "name": "Hickory",
+      "Rarity": "2"
+    },
+    {
+      "name": "Hinoki cypress",
+      "Rarity": "3"
+    },
+    {
+      "name": "Holywood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Honey locust",
+      "Rarity": "2"
+    },
+    {
+      "name": "Honey mesquite",
+      "Rarity": "2"
+    },
+    {
+      "name": "Hoop pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Hornbeam",
+      "Rarity": "2"
+    },
+    {
+      "name": "Horse-chestnut",
+      "Rarity": "3"
+    },
+    {
+      "name": "Horse-chestnut",
+      "Rarity": "3"
+    },
+    {
+      "name": "Huon pine",
+      "Rarity": "3"
+    },
+    {
+      "name": "Hybrid black poplar",
+      "Rarity": "2"
+    },
+    {
+      "name": "Indian mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Indian sandalwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Indonesian mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ipil",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ipe",
+      "Rarity": "3"
+    },
+    {
+      "name": "Iroko",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Japanese larch",
+      "Rarity": "3"
+    },
+    {
+      "name": "Japanese nutmeg-yew",
+      "Rarity": "3"
+    },
+    {
+      "name": "Jarrah",
+      "Rarity": "3"
+    },
+    {
+      "name": "Jatoba",
+      "Rarity": "3"
+    },
+    {
+      "name": "Karri",
+      "Rarity": "3"
+    },
+    {
+      "name": "Kauri (New Zealand)",
+      "Rarity": "3"
+    },
+    {
+      "name": "Kingwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Kosipo",
+      "Rarity": "3"
+    },
+    {
+      "name": "Kwila",
+      "Rarity": "3"
+    },
+    {
+      "name": "Lacewood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Larch",
+      "Rarity": "3"
+    },
+    {
+      "name": "Laurel oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Lawson' ",
+      "Rarity": "3"
+    },
+    {
+      "name": "Lebombo ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Light bosse",
+      "Rarity": "3"
+    },
+    {
+      "name": "Lignum vitae",
+      "Rarity": "3"
+    },
+    {
+      "name": "Limba",
+      "Rarity": ""3
+    },
+    {
+      "name": "Loblolly pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Locust",
+      "Rarity": "2"
+    },
+    {
+      "name": "Lodgepole pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "London plane",
+      "Rarity": "3"
+    },
+    {
+      "name": "Longleaf pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Macquarie pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "Maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Marblewood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Marri",
+      "Rarity": "3"
+    },
+    {
+      "name": "Mediterranean cypress",
+      "Rarity": "2"
+    },
+    {
+      "name": "Meranti",
+      "Rarity": "3"
+    },
+    {
+      "name": "Merbau",
+      "Rarity": "3"
+    },
+    {
+      "name": "Mesquite",
+      "Rarity": "2"
+    },
+    {
+      "name": "Monkey puzzle tree",
+      "Rarity": "3"
+    },
+    {
+      "name": "Monterey pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Mopane",
+      "Rarity": "3"
+    },
+    {
+      "name": "Mountain ash",
+      "Rarity": "3"
+    },
+    {
+      "name": "Mountain hemlock",
+      "Rarity": "2"
+    },
+    {
+      "name": "Mountain mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "Mugga",
+      "Rarity": "3"
+    },
+    {
+      "name": "Noble fir",
+      "Rarity": "3"
+    },
+    {
+      "name": "Nootka cypress",
+      "Rarity": "3"
+    },
+    {
+      "name": "Northern red oak",
+      "Rarity": "1"
+    },
+    {
+      "name": "Northern silky oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Northern white cedar",
+      "Rarity": "1"
+    },
+    {
+      "name": "Norway spruce",
+      "Rarity": "2"
+    },
+    {
+      "name": "Nuttall's oak",
+      "Rarity": "3"
+    },
+    {
+      "name": "Oak",
+      "Rarity": "1"
+    },
+    {
+      "name": "Ohio buckeye",
+      "Rarity": ""
+    },
+    {
+      "name": "Olive",
+      "Rarity": "3"
+    },
+    {
+      "name": "Oregon ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "Overcup oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Pacific Coast mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "Pacific dogwood",
+      "Rarity": "2"
+    },
+    {
+      "name": "Pacific silver fir",
+      "Rarity": "2"
+    },
+    {
+      "name": "Panga-panga",
+      "Rarity": "3"
+    },
+    {
+      "name": "Paper birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Pecan",
+      "Rarity": "2"
+    },
+    {
+      "name": "Persian Lilac",
+      "Rarity": "3"
+    },
+    {
+      "name": "Persian ironwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Philippine mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Philippine teak",
+      "Rarity": "3"
+    },
+    {
+      "name": "Pignut hickory",
+      "Rarity": "3"
+    },
+    {
+      "name": "Pine",
+      "Rarity": "1"
+    },
+    {
+      "name": "Pink Mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Pink ivory",
+      "Rarity": "3"
+    },
+    {
+      "name": "Pitch pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Ponderosa pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Poplar",
+      "Rarity": "1"
+    },
+    {
+      "name": "Post oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Pumpkin ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "Purpleheart",
+      "Rarity": "3"
+    },
+    {
+      "name": "Quaking aspen",
+      "Rarity": "3"
+    },
+    {
+      "name": "Queensland kauri(Australia)",
+      "Rarity": "3"
+    },
+    {
+      "name": "Queensland maple",
+      "Rarity": "3"
+    },
+    {
+      "name": "Queensland walnut",
+      "Rarity": "3"
+    },
+    {
+      "name": "Ramin",
+      "Rarity": "3"
+    },
+    {
+      "name": "Red alder",
+      "Rarity": "2"
+    },
+    {
+      "name": "Red cherry",
+      "Rarity": "2"
+    },
+    {
+      "name": "Red cedar",
+      "Rarity": "2"
+    },
+    {
+      "name": "Red mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "Red maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Red oak",
+      "Rarity": "1"
+    },
+    {
+      "name": "Red pine(North America)",
+      "Rarity": "1"
+    },
+    {
+      "name": "Red pine(UK)",
+      "Rarity": "2"
+    },
+    {
+      "name": "Red spruce",
+      "Rarity": "2"
+    },
+    {
+      "name": "Redheart",
+      "Rarity": "3"
+    },
+    {
+      "name": "Redwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Rimu",
+      "Rarity": "3"
+    },
+    {
+      "name": "River redgum",
+      "Rarity": "3"
+    },
+    {
+      "name": "Rock elm",
+      "Rarity": "2"
+    },
+    {
+      "name": "Rocky Mountain Douglas-fir",
+      "Rarity": "1"
+    },
+    {
+      "name": "Royal Mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sal",
+      "Rarity": "3"
+    },
+    {
+      "name": "Sandalwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Sapele",
+      "Rarity": "3"
+    },
+    {
+      "name": "Sassafras",
+      "Rarity": "3"
+    },
+    {
+      "name": "Scots pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Screwbean mesquite",
+      "Rarity": "2"
+    },
+    {
+      "name": "Shagbark hickory",
+      "Rarity": "2"
+    },
+    {
+      "name": "Shellbark hickory",
+      "Rarity": "2"
+    },
+    {
+      "name": "She oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Shortleaf pine",
+      "Rarity": "1"
+    },
+    {
+      "name": "Silky oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Silver birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Silver fir",
+      "Rarity": "2"
+    },
+    {
+      "name": "Silver maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Silver wattle",
+      "Rarity": "3"
+    },
+    {
+      "name": "Sipo",
+      "Rarity": "3"
+    },
+    {
+      "name": "Sitkas pruce",
+      "Rarity": "3"
+    },
+    {
+      "name": "Slippery elm",
+      "Rarity": "2"
+    },
+    {
+      "name": "Soft maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sourwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Southern Cypress",
+      "Rarity": "2"
+    },
+    {
+      "name": "Southern live oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Southern red oak",
+      "Rarity": "1"
+    },
+    {
+      "name": "Southern sassafras",
+      "Rarity": "2"
+    },
+    {
+      "name": "Southern yellow pine",
+      "Rarity": "1"
+    },
+    {
+      "name": "Spanish Cedar",
+      "Rarity": "1"
+    },
+    {
+      "name": "Spanish elm",
+      "Rarity": "2"
+    },
+    {
+      "name": "Spruce",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sugar maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sugar pine",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sugi",
+      "Rarity": "3"
+    },
+    {
+      "name": "Swamp chestnut oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Swamp cottonwood",
+      "Rarity": "2"
+    },
+    {
+      "name": "Swamp mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "Swamp white oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sweet birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sweetgum",
+      "Rarity": "3"
+    },
+    {
+      "name": "Sycamore maple",
+      "Rarity": "2"
+    },
+    {
+      "name": "Sydney bluegum",
+      "Rarity": "3"
+    },
+    {
+      "name": "Takian",
+      "Rarity": "3"
+    },
+    {
+      "name": "Tallowwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Tamarack",
+      "Rarity": "3"
+    },
+    {
+      "name": "Tamboti",
+      "Rarity": "3"
+    },
+    {
+      "name": "Teak",
+      "Rarity": "3"
+    },
+    {
+      "name": "Thailand rosewood",
+      "Rarity": "3"
+    },
+    {
+      "name": "Tiama",
+      "Rarity": "3"
+    },
+    {
+      "name": "Tulip tree",
+      "Rarity": "3"
+    },
+    {
+      "name": "Tupelo",
+      "Rarity": "3"
+    },
+    {
+      "name": "Turpentine",
+      "Rarity": "3"
+    },
+    {
+      "name": "Velvet mesquite",
+      "Rarity": "2"
+    },
+    {
+      "name": "Walnut",
+      "Rarity": "1"
+    },
+    {
+      "name": "Wandoo",
+      "Rarity": "2"
+    },
+    {
+      "name": "Water oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Weeping willow",
+      "Rarity": "3"
+    },
+    {
+      "name": "Wenge",
+      "Rarity": "3"
+    },
+    {
+      "name": "West Indies mahogany",
+      "Rarity": "3"
+    },
+    {
+      "name": "Western hemlock",
+      "Rarity": "2"
+    },
+    {
+      "name": "Western larch",
+      "Rarity": "3"
+    },
+    {
+      "name": "Western red cedar",
+      "Rarity": "2"
+    },
+    {
+      "name": "Western white pine",
+      "Rarity": "1"
+    },
+    {
+      "name": "White Cedar",
+      "Rarity": "2"
+    },
+    {
+      "name": "White ash",
+      "Rarity": "2"
+    },
+    {
+      "name": "White basswood",
+      "Rarity": "2"
+    },
+    {
+      "name": "White mahogany",
+      "Rarity": "2"
+    },
+    {
+      "name": "White mesquite",
+      "Rarity": "2"
+    },
+    {
+      "name": "White oak",
+      "Rarity": "1"
+    },
+    {
+      "name": "White pine",
+      "Rarity": "1"
+    },
+    {
+      "name": "White willow",
+      "Rarity": "2"
+    },
+    {
+      "name": "White spruce",
+      "Rarity": "2"
+    },
+    {
+      "name": "Wild cherry",
+      "Rarity": "2"
+    },
+    {
+      "name": "Willow",
+      "Rarity": "2"
+    },
+    {
+      "name": "Willow oak",
+      "Rarity": "2"
+    },
+    {
+      "name": "Wych elm",
+      "Rarity": "2"
+    },
+    {
+      "name": "Yellow birch",
+      "Rarity": "2"
+    },
+    {
+      "name": "Yellow buckeye",
+      "Rarity": "2"
+    },
+    {
+      "name": "Yellow lapacho",
+      "Rarity": "3"
+    },
+    {
+      "name": "York gum",
+      "Rarity": "3"
+    },
+    {
+      "name": "Zingana",
+      "Rarity": "3"
+    },
+    {
+      "name": "catawba",
+      "Rarity": "3"
+    },
+    {
+      "name": "cedro",
+      "Rarity": "3"
+    },
+    {
+      "name": "chickrassy",
+      "Rarity": "3"
+    },
+    {
+      "name": "chittagongwood",
+      "Rarity": "3"
+    },
+    {
+      "name": "common box",
+      "Rarity": "2"
+    },
+    {
+      "name": "doussi",
+      "Rarity": "2"
+    },
+    {
+      "name": "linden",
+      "Rarity": "2"
+    },
+    {
+      "name": "movingui",
+      "Rarity": "3"
+    },
+    {
+      "name": "mpingo",
+      "Rarity": "3"
+    },
+    {
+      "name": "redgum",
+      "Rarity": "3"
+    },
+    {
+      "name": "tola",
+      "Rarity": "3"
+    },
+    {
+      "name": "utile",
+      "Rarity": "3"
+    }
+  ]
