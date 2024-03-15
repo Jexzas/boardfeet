@@ -5,6 +5,12 @@ import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min'
 import { useEffect, useState } from 'react';
 import { Route, Routes, useNavigate, useLocation } from 'react-router-dom';
 import Naming from './components/naming';
+import Pricing from './components/pricing';
+import Species from './components/species';
+import Length from './components/length';
+import Width from './components/width';
+import Thickness from './components/thickness';
+import SpecSelector from './components/specselector';
 import API from './components/API/connect';
 
 // Establish US dollar format
@@ -49,6 +55,8 @@ function App() {
   let [wood, setWood] = useState({});
   // This one pulls pre-created woods from the API
   let [userWoods, setUserWoods] = useState([]);
+  // Pulls wood species from the API
+  let [species, setSpecies] = useState([]);
 
   let thisWood = new Wood()
   // This counter is for React Router to determine what step in the form you're on
@@ -63,10 +71,30 @@ function App() {
       navigate("/1");
     }
     if (location.pathname == "/1") {
-      setUserWoods(API.getUserWoods());
+      getUserWoods();
+    }
+    if (location.pathname == "/2") {
+      getSpecies();
     }
   }, []);
   
+
+  /**
+   * Get the species of woods from the API
+   * @returns none
+   **/
+  const getSpecies = async () => {
+    setSpecies(await API.getWoods());
+  }
+
+   /**
+   * Get the created woods from the API
+   * @returns none
+   **/
+   const getUserWoods = async () => {
+    setUserWoods(await API.getUserWoods());
+  }
+
   /**
    * Move the form using the counter
    * @returns none
@@ -138,7 +166,7 @@ function App() {
    * @returns none
    * @param {number} thickness 
    */
-  function handleThick(thickness) {
+  function handleThickness(thickness) {
 
   }
 
@@ -164,11 +192,11 @@ function App() {
         <div className='card rightThing col-12 col-lg-6'>
           <Routes>
             <Route index path="/1" element={<Naming handleName={handleName} handleNavigate={handleNavigate}/>}/>
-            <Route path="/2" element={<Naming handleSpecies={handleSpecies} handleNavigate={handleNavigate}/>}/>
-            <Route path="/3" element={<Naming handlePrice={handlePrice} handleNavigate={handleNavigate}/>}/>
-            <Route path="/4" element={<Naming handleLength={handleLength} handleNavigate={handleNavigate}/>}/>
-            <Route path="/5" element={<Naming handleWidth={handleWidth} handleNavigate={handleNavigate}/>}/>
-            <Route path="/6" element={<Naming handleThick={handleThick} handleNavigate={handleNavigate}/>}/>
+            <Route path="/2" element={<Species handleSpecies={handleSpecies} handleNavigate={handleNavigate}/>}/>
+            <Route path="/3" element={<Pricing handlePrice={handlePrice} handleNavigate={handleNavigate}/>}/>
+            <Route path="/4" element={<Length handleLength={handleLength} handleNavigate={handleNavigate}/>}/>
+            <Route path="/5" element={<Width handleWidth={handleWidth} handleNavigate={handleNavigate}/>}/>
+            <Route path="/6" element={<Thickness handleThickness={handleThickness} handleNavigate={handleNavigate}/>}/>
           </Routes>
         </div>
       </div>
@@ -176,7 +204,7 @@ function App() {
         <div className='card bottomThing col-12'>
           <Routes>
             <Route index path="/1" value="pick existing boards"/>
-            <Route index path="/2" value="pick species"/>
+            <Route index path="/2" value="pick species" element={<SpecSelector woods={species} />} />
             <Route index path="/3" value="Nothing to see here"/>
             <Route index path="/4" value="Common lengths"/>
             <Route index path="/5" value="Common widths"/>

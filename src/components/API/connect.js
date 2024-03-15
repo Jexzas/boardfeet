@@ -1,7 +1,8 @@
+let url = "http://localhost:5000/";
 class Endpoint {
     async getWoods() {
         try {
-            let res = await fetch("/woods");
+            let res = await fetch(`${url}woods`);
             let data = res.json();
             return data;
         } catch (e) {
@@ -10,7 +11,7 @@ class Endpoint {
     }
     async getUserWoods() {
         try {
-            let res = await fetch("/custom-woods");
+            let res = await fetch(`${url}custom-woods`);
             let data = res.json();
             return data;
         } catch (e) {
@@ -19,7 +20,7 @@ class Endpoint {
     }
     async getLengths() {
         try {
-            let res = await fetch("/lengths");
+            let res = await fetch(`${url}lengths`);
             let data = res.json();
             return data;
         } catch (e) {
@@ -28,7 +29,7 @@ class Endpoint {
     }
     async getThickness() {
         try {
-            let res = await fetch("/thicknesses");
+            let res = await fetch(`${url}thicknesses`);
             let data = res.json();
             return data;
         } catch (e) {
@@ -37,7 +38,7 @@ class Endpoint {
     }
     async getWidths() {
         try {
-            let res = await fetch("/widths");
+            let res = await fetch(`${url}widths`);
             let data = res.json();
             return data;
         } catch (e) {
